@@ -1,6 +1,8 @@
 # twistar: Asynchronous Python ORM
 [![Build Status](https://secure.travis-ci.org/bmuller/twistar.png?branch=master)](https://travis-ci.org/bmuller/twistar) [![Coverage Status](https://coveralls.io/repos/bmuller/twistar/badge.svg?branch=master&service=github)](https://coveralls.io/github/bmuller/twistar?branch=master)
 
+**IMPORTANT:** Twistar project has been officially archived by the owner on Sep 2, 2021. This fork was created to fix critical issues needed for OpenNSA (https://github.com/NORDUnet/opennsa/).
+
 The Twistar Project provides an ActiveRecord (ORM) pattern interface to the Twisted Project's RDBMS library.  This file contains minimal documentation - see the project home page at http://findingscience.com/twistar for more information.
 
 ## Installation
